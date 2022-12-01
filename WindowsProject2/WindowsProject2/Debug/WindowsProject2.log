@@ -1,0 +1,4 @@
+﻿  WindowsProject2.cpp
+C:\Users\naima\source\repos\WindowsProject2\WindowsProject2\WindowsProject2.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\naima\source\repos\WindowsProject2\WindowsProject2\WindowsProject2.cpp(179,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  WindowsProject2.vcxproj -> C:\Users\naima\source\repos\WindowsProject2\Debug\WindowsProject2.exe
